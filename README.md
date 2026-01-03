@@ -1,11 +1,13 @@
 # Ciro Russo, PhD
-👨🏻‍💻PostDoctoral Researcher
+
+📍 Italy <br>
+🎓 PhD in Methods, Models and Technologies for Engineering (Computer Science) <br>
+👨🏻‍💻 PostDoctoral Researcher <br>
+🏛 University of Cassino and Southern Lazio <br>
 
 ----
 
-📍 Italy
-🎓 PhD in Computer Science
-🏛 University of Cassino and Southern Lazio
+Researcher in Artificial Intelligence and Medical Image Analysis, with research interests in computational cytology, brain imaging and small lesion detection.
 
 <!--
 # Ciro Russo, PhD
