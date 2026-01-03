@@ -1,13 +1,17 @@
 # Ciro Russo, PhD
-👨🏻‍💻AI Researcher
+👨🏻‍💻PostDoctoral Researcher
+
+----
+
+📍 Italy
+🎓 PhD in Computer Science
+🏛 University of Cassino and Southern Lazio
 
 <!--
 # Ciro Russo, PhD
 AI Researcher | Medical Image Analysis | Computational Cytology
 
-📍 Italy
-🎓 PhD in Computer Science
-🏛 University of Cassino and Southern Lazio
+
 
 
 **cirorusso2910/cirorusso2910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
