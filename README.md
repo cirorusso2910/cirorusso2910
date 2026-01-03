@@ -1,31 +1,16 @@
 # Ciro Russo, PhD
 
+Researcher in Artificial Intelligence and Medical Image Analysis, with research interests in small lesion detection, computational cytology and volumetric brain imaging. <br>
+
 📍 Italy <br>
 🎓 PhD in Methods, Models and Technologies for Engineering (Computer Science) <br>
 👨🏻‍💻 PostDoctoral Researcher <br>
 🏛 University of Cassino and Southern Lazio <br>
 
-----
+📧 Email: <br>
+- [ciro.russo@unicas.it](mailto:ciro.russo@unicas.it), <br>
+- [ciro.russo2910@gmail.com](mailto:ciro.russo2910@gmail.com) <br>
 
-Researcher in Artificial Intelligence and Medical Image Analysis, with research interests in computational cytology, brain imaging and small lesion detection.
-
-<!--
-# Ciro Russo, PhD
-AI Researcher | Medical Image Analysis | Computational Cytology
-
-
-
-
-**cirorusso2910/cirorusso2910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Links: <br>
+- [Google Scholar](https://scholar.google.com/citations?user=XJV2vVsAAAAJ&hl=it)
+- [LinkedIn](https://www.linkedin.com/in/ciro-russo-phd-b14056100/)
